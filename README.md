@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Moulya</a></h2>
+<h2>Hey 👋, I'm Moulya</a></h2>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🎓 I’m currently a Masters student in Machine Learning and Data Science at University of Southern California.</li>
@@ -6,7 +6,7 @@
 <li>🧠 GenAI explorer - teaching computers to be creative so I don't have to be.</li>
 <li>👥 Building multi-agent systems because I need backup when Stack Overflow is down.</li>
 <li>💻 Full-stack developer: Javascript, React, Node.js, Express, MongoDB - basically I speak in acronyms.</li>
-<li>💬 Reach me at <strong><a href="mailto:mthippes@usc.edu">mthippes@usc.edu</a></strong> or <strong><a href="https://www.linkedin.com/in/moulyat9353/">Linkedn</a></li>
+<li>💬 Reach me at <strong><a href="mailto:mthippes@usc.edu">mthippes@usc.edu</a></strong> or <strong><a href="https://www.linkedin.com/in/moulyat9353/">LinkedIn</a></li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <h3>Languages</h3>
