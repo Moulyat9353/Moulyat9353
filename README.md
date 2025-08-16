@@ -2,9 +2,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🎓 I’m currently a Masters student in Machine Learning and Data Science at University of Southern California.</li>
-<li>🤖 AI/ML enthusiast who's 99% sure the machines won't revolt (fingers crossed).</li>
-<li>🧠 GenAI explorer - teaching computers to be creative so I don't have to be.</li>
-<li>👥 Building multi-agent systems because I need backup when Stack Overflow is down.</li>
+<li>🤖 AI/ML and GenAI enthusiast building end-to-end intelligent applications.</li>
+<li>🧠 Published researcher in AI/ML domain with work on Alzheimer's detection using speech analysis. </li>
+<li>👥 Built scalable and distributed systems like real time chat applications.</li>
 <li>💻 Full-stack developer: Javascript, React, Node.js, Express, MongoDB </li>
 <li>💬 Reach me at <strong><a href="mailto:mthippes@usc.edu">mthippes@usc.edu</a></strong> or <strong><a href="https://www.linkedin.com/in/moulyat9353/">LinkedIn</a></li>
 </ul>
