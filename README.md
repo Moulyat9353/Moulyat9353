@@ -3,7 +3,7 @@
 <ul>
 <li>🎓 I’m currently a Masters student in Machine Learning and Data Science at University of Southern California.</li>
 <li>🤖 AI/ML and GenAI enthusiast building end-to-end intelligent applications.</li>
-<li>🧠 Published researcher in AI/ML domain with work on Alzheimer's detection using speech analysis. </li>
+<li>🧠 Published researcher in AI/ML domain with work on Alzheimer's detection using speech analysis. <strong><a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0011779000003393">Research Paper</a> </li>
 <li>👥 Built scalable and distributed systems like real time chat applications.</li>
 <li>💻 Full-stack developer: Javascript, React, Node.js, Express, MongoDB </li>
 <li>💬 Reach me at <strong><a href="mailto:mthippes@usc.edu">mthippes@usc.edu</a></strong> or <strong><a href="https://www.linkedin.com/in/moulyat9353/">LinkedIn</a></li>
